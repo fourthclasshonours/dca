@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/jonas747/dca"
+	"github.com/fourthclasshonours/dca"
 	"io"
 	"os"
 	"time"
